@@ -118,9 +118,16 @@ Building production-grade GenAI systems with focus on:
 
 ---
 
-## 🌟 What I'm Building
+## 📌 Featured Projects 
 
-Generative AI systems that intelligently process unstructured information, retrieve relevant context through hybrid search, and reason over multiple data sources using agentic workflows — all deployed at production scale with enterprise-grade reliability.
+### 🤖 Resume Tailoring & Job Application Generator 
+Generative AI application that customizes resumes and generates job-specific application materials using Gemini and agentic workflows. 
+### 📊 AI-Powered Data Analyst 
+Multi-agent analytics system built using LangGraph for automated data ingestion, analysis, visualization, and insight generation. 
+### 🔍 Agentic Knowledge Retrieval System 
+Intelligent query-routing architecture combining structured database retrieval and unstructured RAG pipelines. 
+### 🧠 Brain Tumor Classification from MRI Images 
+Deep learning project using CBAM-Hybrid CNN-Autoencoder architecture for medical image classification.
 
 ---
 
