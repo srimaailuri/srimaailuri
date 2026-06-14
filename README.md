@@ -7,7 +7,7 @@ Building production-grade AI systems focused on document intelligence, AI search
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ailuri-srima-49952a303/">
+  <a href="https://www.linkedin.com/in/ailuri-srima/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="mailto:ailurisrima@gmail.com">
