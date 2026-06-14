@@ -1,31 +1,115 @@
-<h1 align="center">Hi 👋, I'm Srima</h1>
-<h3 align="center">A hard working student of SRMIST and passionate about of coding</h3>
+<h1 align="center">Hi 👋, I'm Ailuri Srima</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srimaailuri&label=Profile%20views&color=0e75b6&style=flat" alt="srimaailuri" /> </p>
+<h3 align="center">Generative AI Engineer | Agentic AI | Retrieval-Augmented Generation (RAG)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srimaailuri" alt="srimaailuri" /></a> </p>
-
-- 🔭 I’m currently working on **on mini projects**
-
-- 🌱 I’m currently learning **Bootstrap**
-
-- 👯 I’m looking to collaborate on **Innovative projects and Hackathons**
-
-- 🤝 I’m looking for help with **getting started on Machine Learning**
-
-- 💬 Ask me about **python , c ,c++**
-
-- 📫 How to reach me **as9731@srmist.edu.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building production-grade AI systems focused on document intelligence, AI search, Retrieval-Augmented Generation (RAG), and agentic workflows.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ailuri-srima-49952a303/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:ailurisrima@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srimaailuri&show_icons=true&locale=en&layout=compact" alt="srimaailuri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srimaailuri&show_icons=true&locale=en" alt="srimaailuri" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srimaailuri&" alt="srimaailuri" /></p>
+I am a Generative AI Engineer passionate about building production-grade AI applications that combine document intelligence, Retrieval-Augmented Generation (RAG), and agentic workflows.
+
+Currently, I work on enterprise AI solutions for pharmaceutical competitive intelligence, designing systems that transform unstructured content into actionable business insights through hybrid retrieval, intelligent routing, and AI-powered search.
+
+---
+
+## 🔭 Current Focus
+
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Enterprise AI Search & Retrieval
+- Multi-Agent Architectures
+- LLM Application Development
+
+---
+
+## 🏆 Certifications
+
+- **Databricks Certified Generative AI Engineer Associate (2026)**  
+  🔗 Credential Verification:  
+  https://credentials.databricks.com/ed885b18-6b82-4fa9-8b16-d39dca2794b8#acc.lVXuE6FB
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+### Generative AI
+
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-purple)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-green)
+
+### Frameworks & Libraries
+
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black)
+![LangGraph](https://img.shields.io/badge/LangGraph-orange)
+![LangChain](https://img.shields.io/badge/LangChain-green)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+### Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-GCP-blue)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Resume Tailoring & Job Application Generator
+Generative AI application that customizes resumes and generates job-specific application materials using Gemini and agentic workflows.
+
+### 📊 AI-Powered Data Analyst
+Multi-agent analytics system built using LangGraph for automated data ingestion, analysis, visualization, and insight generation.
+
+### 🔍 Agentic Knowledge Retrieval System
+Intelligent query-routing architecture combining structured database retrieval and unstructured RAG pipelines.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ailuri-srima/
+- GitHub: https://github.com/srimaailuri
+- Email: ailurisrima@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srimaailuri&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimaailuri&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srimaailuri" />
+</p>
+
+---
+
+⭐ Passionate about building intelligent systems using Generative AI, Agentic Workflows, and Retrieval-Augmented Generation (RAG).
